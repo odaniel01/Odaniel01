@@ -1,16 +1,13 @@
-## Hi there 👋
+## bienvenido a mi perfil
 
-<!--
-**odaniel01/Odaniel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é carlos daniel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estoy estudando no alura
+-tentando me desenvolver na linguagem javascript
+-organização e compartilhamento de projetos
+
+
+
+
+  
